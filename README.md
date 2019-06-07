@@ -2,6 +2,16 @@ This repo will contain community-made apps for the Gameshell launcher on Pocket 
 
 Community apps should be installed at /home/chip/apps/Menu/
 
-And follow the same naming guidelines as the apps found in /home/chip/launcher/Menu/GameShell/
+```
+01_Test.sh
+02_Second.sh
+icons/
+  |- Test.png
+  |- Second.png
+```
+
+Follow the same naming guidelines as the apps found in /home/chip/launcher/Menu/GameShell/, e.g. `20_App Name.sh`
+
+If no icon is provided, the theme will be checked for a matching name; Failing that the launcher will fall back to a text-based icon.
 
 Launcher can be found here -> https://github.com/omgmog/launcher
