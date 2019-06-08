@@ -16,13 +16,6 @@ If no icon is provided, the theme will be checked for a matching name; Failing t
 
 Launcher can be found here -> https://github.com/omgmog/launcher
 
-## Instructions for game shortcuts included in this repo
+## Instructions for setting up games
 
-### Cave Story
-
-You need to have Cave Story (NX Engine) built as per [these instructions](https://chi.brachypelma.org/post/165145842880/how-to-install-cave-story-on-your-pocketchip) and installed in `/home/chip/Games/nx`. 
-
-
-### Hydra Castle Labyrinth
-
-You need to have Hydra Castle Labyrinth built as per [these instructions](https://github.com/ptitSeb/hydracastlelabyrinth) and installed in `/home/chip/Games/hydracastlelabyrinth`. 
+Instructions for each game can be found on the Wiki: https://github.com/omgmog/launcher-community-apps/wiki/Community-Apps-for-the-Pocket-CHIP-Launcher
