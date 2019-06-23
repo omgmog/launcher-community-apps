@@ -18,4 +18,4 @@ Launcher can be found here -> https://github.com/omgmog/launcher
 
 ## Instructions for setting up games
 
-Instructions for each game can be found on the Wiki: https://github.com/omgmog/launcher-community-apps/wiki/Community-Apps-for-the-Pocket-CHIP-Launcher
+Instructions for each game can be found on the Wiki: https://github.com/omgmog/launcher-community-apps/wiki/
